@@ -13,7 +13,6 @@ Refuses to cut if it finds something else.<br><br>
 The progress is reversable.<br>
 The tool can be used to add back the unused space.<br><br><br>
 
-
 As a safetymeasure, the original file actually won't be touched.<br>
 Everything gets copied to an output file.<br><br>
 
